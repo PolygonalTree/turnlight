@@ -2,7 +2,7 @@
 // Modified by Polygonal Tree (Luis Garcia Rodriguez) to adjust the paramters and filter for the TurnLight for cyclist, for more info: http://polygonaltree.co.uk/wiki/opensource:turnlight
 /*
    Copyright (C) 2013  Kristian Lauszus
-   Copyright (C) 2013  Luis García Rodríguez <dirección de correo>
+   Copyright (C) 2013  Luis García Rodríguez <luis.garcia@polygonaltree.co.uk>
 
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
